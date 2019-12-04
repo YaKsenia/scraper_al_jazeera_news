@@ -44,6 +44,13 @@ This is how resulting file looks like:
 
 
 
+**POSSIBLE ERROR**
+
+Sometimes you can get this error. It is connected with the website's performance or protection from robots (and we are robots in this case:). Just try to run the project again and it should work fine.
+
+![alt text](https://github.com/YaKsenia/scraper_al_jazeera_news/blob/master/output/possible_error.png)
+
+
 
 
 
@@ -92,3 +99,11 @@ This is how resulting file looks like:
 
 
 ![alt text](https://github.com/YaKsenia/scraper_al_jazeera_news/blob/master/output/resulting_file.png)
+
+
+**ВОЗМОЖНАЯ ОШИБКА**
+
+Иногда вы можете увидеть эту ошибку. Это связано с работой сайта или его защитой от роботов (в данном случае мы с вами - роботы :). Просто попробуйте запустить программу снова, и она должна работать нормально.
+
+![alt text](https://github.com/YaKsenia/scraper_al_jazeera_news/blob/master/output/possible_error.png)
+
