@@ -36,8 +36,7 @@ After the browser will be closed, the program will continue executing in the Ter
 ![alt text](https://github.com/YaKsenia/scraper_al_jazeera_news/blob/master/output/output3.png)
 
 
-The resulting csv-file will be saved in the folder of the project (you can see example in the folder "output" now). No matter how many articles will be in your results, the script automatically scrolls the webpage down until it reaches the end and scrapes all the articles.
-
+The resulting csv-file will be saved in the folder of the project (you can see example in the folder "output" now).
 This is how resulting file looks like:
 
 ![alt text](https://github.com/YaKsenia/scraper_al_jazeera_news/blob/master/output/resulting_file.png)
