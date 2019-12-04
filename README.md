@@ -1,7 +1,6 @@
-# scraper_al_jazeera_news
-Python scripts which scrape links of news from Al Jazeera search and then scrape news texts and headers from these links
-
 # Scraper of news articles from Al Jazeera/ AJ/ Аль-Джазира website (https://www.aljazeera.com/)
+
+Python scripts which scrape links of news from Al Jazeera search and then scrape news texts and headers from these links
 
 (Описание на русском ниже)
 
